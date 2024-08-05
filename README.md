@@ -1,4 +1,5 @@
-#Football Analysis Software
+Football Analysis Software
+
 This project involves the development of a football analysis software that detects players on the pitch, calculates the possession of both teams, estimates the speed and distance covered by each player, and more. The software leverages computer vision techniques and deep learning models to analyze football matches and provide detailed statistics.
 
 Features
